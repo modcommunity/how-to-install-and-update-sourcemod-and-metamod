@@ -1,6 +1,6 @@
 A guide on how to **install** and **update** both [MetaMod](https://www.sourcemm.net/) and [SourceMod](https://www.sourcemm.net/).
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-update-sourcemod-metamod/)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://moddingcommunity.com/blog/how-to-install-update-sourcemod-metamod/)
 
 ## Table Of Contents
 * [Requirements](#p-66-requirements-1)
@@ -187,8 +187,8 @@ Here is a small list of games where community and modded game servers utilize Me
 > * **Open-Source** - SourceMod, its extensions, and its plugins, are all open source under the GNU General Public License!
 
 ## See Also
-* [How To Manage User Permissions In SourceMod](https://blog.moddingcommunity.com/how-to-compile-sourcemod-plugins/)
-* [How To Compile SourceMod Plugins](https://blog.moddingcommunity.com/how-to-compile-sourcemod-plugins/)
+* [How To Manage User Permissions In SourceMod](https://moddingcommunity.com/blog/how-to-compile-sourcemod-plugins/)
+* [How To Compile SourceMod Plugins](https://moddingcommunity.com/blog/how-to-compile-sourcemod-plugins/)
 
 ## Conclusion
 That's it! By now you should know to install and update both SourceMod and MetaMod.
